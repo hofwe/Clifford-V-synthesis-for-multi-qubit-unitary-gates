@@ -7,9 +7,9 @@ fig1/dist_mat2.txt ... √2*(CME distance) between Haar randomly generated 1000 
 
 fig1/dist_mat4.txt ... √2*(CME distance) between Haar randomly generated 1000 SU(4)s.
 
-fig1/dist_mat2.txt ... √2*(ACME distance) between Haar randomly generated 1000 SU(2)s.
+fig1/my_dist_mat2.txt ... √2*(ACME distance) between Haar randomly generated 1000 SU(2)s.
 
-fig1/dist_mat4.txt ... √2*(ACME distance) between Haar randomly generated 1000 SU(4)s.
+fig1/my_dist_mat4.txt ... √2*(ACME distance) between Haar randomly generated 1000 SU(4)s.
 
 # Figure 3
 Each file has the result of a test calculation in each row. Each column is constructed as follows.
@@ -36,3 +36,16 @@ fig4/SU4_C100_sgg_res.txt ... Generalized controlled gate by Subgroup Guided Sea
 fig4/SU4_IDC100_res.txt ... Controlled gate by Meet-in-the-Middle Exhaustive Search
 
 fig4/SU2_100_sgg_res.txt ... Controlled gate by Subgroup Guided Search + SU(2)
+
+
+# Table 2
+
+tab2/my_dist_mat2.txt ... √2*(ACME distance) between Haar randomly generated 1000 SU(2)s.
+
+tab2/my_dist_mat4.txt ... √2*(ACME distance) between Haar randomly generated 1000 SU(4)s.
+
+tab2/my_dist_mat8.txt ... √2*(ACME distance) between Haar randomly generated 1000 SU(8)s.
+
+tab2/my_dist_mat16.txt ... √2*(ACME distance) between Haar randomly generated 1000 SU(16)s.
+
+
