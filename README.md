@@ -11,6 +11,20 @@ fig1/my_dist_mat2.txt ... √2*(ACME distance) between Haar randomly generated 1
 
 fig1/my_dist_mat4.txt ... √2*(ACME distance) between Haar randomly generated 1000 SU(4)s.
 
+# Figure 2
+Each file has the result of a test calculation in each row. Each column is constructed as follows.
+```
+error(epsilon) V-count
+```
+
+fig2/hnsw_Another_Clifford_T2_res.txt ... SU(2)
+
+fig2/hnsw_Another_Clifford_T4_res.txt ... SU(4)
+
+fig2/hnsw_Another_Clifford_TC4_res.txt ... SU(2)^{\oplus 2}
+
+fig2/hnsw_Another_Clifford_TC8_res.txt ... SU(2)^{\oplus 4}
+
 # Figure 3
 Each file has the result of a test calculation in each row. Each column is constructed as follows.
 ```
